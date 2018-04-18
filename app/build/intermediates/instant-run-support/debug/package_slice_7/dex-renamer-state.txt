@@ -1,0 +1,4 @@
+#Wed Apr 18 17:29:59 IST 2018
+base.0=/home/newagesmb/Documents/Camera-2--master/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
